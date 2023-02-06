@@ -1,0 +1,45 @@
+SALES_LIST
+{
+  SALE
+  {
+    SALESMAN_CODE 014
+    BANKITEM_TYPE Loan
+    BANKITEM_CODE L1
+    REASON "Reconstruction of Monaco BC home stadium."
+  }
+  SALE
+  {
+    SALESMAN_CODE 002
+    BANKITEM_TYPE Card
+    BANKITEM_CODE C3
+    REASON "Caffeine products, must wake up."
+  }
+  SALE
+  {
+    SALESMAN_CODE 011
+    BANKITEM_TYPE Loan
+    BANKITEM_CODE L3
+    REASON "Purchase of chocolate."
+  }
+  SALE
+  {
+    SALESMAN_CODE 011
+    BANKITEM_TYPE Card
+    BANKITEM_CODE C2
+    REASON "Baby expenses."
+  }
+  SALE
+  {
+    SALESMAN_CODE 077
+    BANKITEM_TYPE Loan
+    BANKITEM_CODE L2
+    REASON "Mandatory repairs for damages in OAKA."
+  }
+  SALE
+  {
+    SALESMAN_CODE 015
+    BANKITEM_TYPE Card
+    BANKITEM_CODE C1
+    REASON "Netflix account instead of communication with teammates."
+  }
+}

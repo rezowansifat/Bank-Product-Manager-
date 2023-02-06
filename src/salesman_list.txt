@@ -1,0 +1,38 @@
+SALESMAN_LIST
+{
+  SALESMAN
+  {
+    CODE 014
+    FIRSTNAME "Aleksandar 'Sasha'"
+    SURNAME "Vezenkov"
+    AFM 581510137
+  }
+  SALESMAN
+  {
+    CODE 002
+    FIRSTNAME "Tyler"
+    SURNAME "Dorsey"
+    AFM 232105129
+  }
+  SALESMAN
+  {
+    CODE 011
+    FIRSTNAME "Kostas"
+    SURNAME "Sloukas"
+    AFM 264908119
+  }
+  SALESMAN
+  {
+    CODE 077
+    FIRSTNAME "Shaquille"
+    SURNAME "McKissic"
+    AFM 191508067
+  }
+  SALESMAN
+  {
+    CODE 015
+    FIRSTNAME "Giorgos"
+    SURNAME "Printezis"
+    AFM 130301037
+  }
+}

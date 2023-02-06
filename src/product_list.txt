@@ -1,0 +1,69 @@
+BANKITEM_LIST
+{
+  BANKITEM
+  {
+    TYPE Loan
+	CODE L1
+    DESCR "01"
+    AFM 998751013
+    AMOUNT 250000
+    YRATE 0.03
+  }
+  BANKITEM
+  {
+	TYPE Loan
+    CODE L2
+    DESCR "02"
+    AFM 211103214
+    AMOUNT 5000
+    YRATE 0.09
+  }
+  BANKITEM
+  {
+    TYPE Loan
+    CODE L3
+    DESCR "03"
+    AFM 120803199
+    AMOUNT 5000
+    YRATE 0.07
+  }
+  BANKITEM
+  {
+    TYPE Loan
+    CODE L4
+    DESCR "04"
+    AFM 140203154
+    AMOUNT 9000
+    YRATE 0.04
+  }
+  BANKITEM
+  {
+    TYPE Card
+    CODE C1
+    DESCR "05"
+    AFM 03163589
+    COM 0.005
+    LIM 2000
+    YLIM 100000
+  }
+  BANKITEM
+  {
+    TYPE Card
+    CODE C2
+    DESCR "06"
+    AFM 90367834
+    COM 0.007
+    LIM 5000
+    YLIM 200000
+  }
+  BANKITEM
+  {
+    TYPE Card
+    CODE C3
+    DESCR "07"
+    AFM 98964824
+    COM 0.009
+    LIM 10000
+    YLIM 500000
+  }
+}

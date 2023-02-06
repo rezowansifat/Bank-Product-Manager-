@@ -1,0 +1,81 @@
+TRN_LIST
+{
+  TRN
+  {
+    BANKITEM_CODE C3
+    VAL 20.00
+    JUSTIFICATION "Aeropress"
+  }
+  TRN
+  {
+    BANKITEM_CODE C3
+    VAL 8.00
+    JUSTIFICATION "Coffee beans"
+  }
+  TRN
+  {
+    BANKITEM_CODE C3
+    VAL 200.00
+    JUSTIFICATION "Espresso machine"
+  }
+  TRN
+  {
+    BANKITEM_CODE C3
+    VAL 9.99
+    JUSTIFICATION "Caffeine gums"
+  }
+  TRN
+  {
+    BANKITEM_CODE C3
+    VAL 500.00
+    JUSTIFICATION "Replace espresso machine"
+  }
+  TRN
+  {
+    BANKITEM_CODE C1
+    VAL 500.00
+    JUSTIFICATION "5-year netflix plan"
+  }
+  TRN
+  {
+    BANKITEM_CODE C1
+    VAL 25.00
+    JUSTIFICATION "Movie bill"
+  }
+  TRN
+  {
+    BANKITEM_CODE C1
+    VAL 10.00
+    JUSTIFICATION "TV Show bill"
+  }
+  TRN
+  {
+    BANKITEM_CODE C1
+    VAL 7.50
+    JUSTIFICATION "Movie ticket"
+  }
+  TRN
+  {
+    BANKITEM_CODE C2
+    VAL 100.00
+    JUSTIFICATION "Diapers"
+  }
+  TRN
+  {
+    BANKITEM_CODE C2
+    VAL 200.00
+    JUSTIFICATION "Baby swing"
+  }
+  TRN
+  {
+    BANKITEM_CODE C2
+    VAL 30.00
+    JUSTIFICATION "Tricycle"
+  }
+  TRN
+  {
+    BANKITEM_CODE C2
+    VAL 5.00
+    JUSTIFICATION "Pacifier"
+  }
+}
